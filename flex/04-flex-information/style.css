@@ -7,6 +7,17 @@ img {
   height: 100px;
 }
 
+.head {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 32px;
+}
+
+.info{
+display: flex;
+padding: 0 52px;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
